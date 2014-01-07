@@ -1,3 +1,7 @@
+changes in my fork
+==================
+1. process .css same as .less(that means @import a .css file is just as @import a .less file. So you can write less syntax in *.css)
+
 # [Less.js v1.6.0](http://lesscss.org)
 
 > The **dynamic** stylesheet language. [http://lesscss.org](http://lesscss.org).
